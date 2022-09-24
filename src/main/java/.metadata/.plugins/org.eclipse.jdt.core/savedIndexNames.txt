@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\GORD_\Documents\GitHub\taller-5-java-anvillaa\src\main\java\Taller_5\src\.metadata\.plugins\org.eclipse.jdt.core
