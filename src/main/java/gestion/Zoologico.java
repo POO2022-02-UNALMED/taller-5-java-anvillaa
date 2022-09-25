@@ -1,6 +1,7 @@
 package gestion;
 
 public class Zoologico {
+	private int countAniamles = 0;
 	private String nombre;
 	private String ubicacion;
 	private Zona zona;
@@ -15,6 +16,7 @@ public class Zoologico {
 		
 	}
 	public int cantidadTotalAnimales(){
+		
 	}
 	public Zona agregarZona() {
 	}
