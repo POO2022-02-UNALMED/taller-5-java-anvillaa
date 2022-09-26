@@ -1,0 +1,26 @@
+package zooAnimales;
+
+import gestion.Zona;
+
+public class Animal {
+	private int totalAnimal;
+	private String nombre;
+	private int edad;
+	private String habitat;
+	private String genero;
+	private Zona zona;
+	
+	public Animal(int total, String nom_animal, int anos, String casa, String hemOmach,Zona zon) {
+		totalAnimal = total;
+		nombre = nom_animal;
+		edad = anos;
+		habitat = casa;
+		genero = hemOmach;
+		zona = zon;
+	}
+	
+	public Animal() {
+		
+	}
+	
+}

@@ -1,0 +1,20 @@
+package gestion;
+
+public class Zona {
+	private String nombre;
+	private Zoologico zoo;
+	private Animal animales;
+	
+	public Zona(String nom_zona, Zoologico zoolo, Animal nom_animal) {
+		nombre = nom_zona;
+		zoo = zoolo;
+		animales = nom_animales;
+	}
+	
+	public Zoologico() {
+		
+	}
+	
+	}
+
+

@@ -1,0 +1,9 @@
+package zooAnimales;
+
+public class Pez extends Animal {
+	private Pez listado;
+	public int samones;
+	public int bacalaos;
+	private String colorEscamas;
+	private int cantidadAletas;
+}

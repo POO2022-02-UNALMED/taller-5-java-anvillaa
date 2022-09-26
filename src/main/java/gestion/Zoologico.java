@@ -1,23 +1,15 @@
 package gestion;
+import java.util.ArrayList;
 
-public class Zoologico {
-	private int countAniamles = 0;
-	private String nombre;
-	private String ubicacion;
-	private Zona zona;
-	
-	public Zoologico(String nombre, String ubicacion, Zona zona) {
-		this.nombre = nombre;
-		this.ubicacion = ubicacion;
-		this.zona = zona;
-	}
-	
-	public Zoologico() {
-		
-	}
-	public int cantidadTotalAnimales(){
-		
-	}
-	public Zona agregarZona() {
-	}
-} 
+public class Zoologico{
+    private String nombre;
+    private String ubicacion;
+    private ArrayList<Zona> zonas;
+
+//construcción del constructor para zoologico
+    Zoologico(String nombre,String ubicacion){
+        this.nombre=nombre;
+        this.ubicacion=ubicacion;
+        this.zonas=zonas;
+    }
+}
