@@ -18,6 +18,10 @@ public class Reptil extends Animal{
         
     }
     
+    public String movimiento() {
+    	return "reptar";
+    }
+    
     public static int cantidadAnfibios() {
     	
     }

@@ -14,5 +14,9 @@ public class Ave extends Animal{
     Ave(){
         
     }
+    
+    public String movimiento() {
+    	return "volar";
+    }
      
 }

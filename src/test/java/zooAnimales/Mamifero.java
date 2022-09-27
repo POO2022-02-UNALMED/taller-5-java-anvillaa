@@ -18,4 +18,7 @@ public class Mamifero extends Animal{
     	super();
     } 
     
+    public String movimiento() {
+    	return "desplazarse";
+    }
 }

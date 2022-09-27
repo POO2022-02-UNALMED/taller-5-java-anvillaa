@@ -22,4 +22,11 @@ public class Animal {
     public String movimiento(){
     	return "desplazarse";
     }
+    
+    public int totalPortipo() {
+    	
+    }
+    
+    //to string method
+    
 }

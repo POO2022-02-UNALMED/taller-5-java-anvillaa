@@ -14,6 +14,15 @@ public class Anfibio extends Animal{
       this.venenoso = venenoso;  
    }
    Anfibio(){
-      
+	   super();  
    }
+   
+   public String movimiento(){
+	   return "saltar";
+   }
+   
+   public static Anfibio crearRana(String nombre,){
+	   
+   }
+   
 }
