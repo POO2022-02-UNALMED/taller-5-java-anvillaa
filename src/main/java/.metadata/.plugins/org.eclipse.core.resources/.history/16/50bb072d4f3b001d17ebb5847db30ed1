@@ -1,0 +1,7 @@
+package gestion;
+
+public class Zonas {
+	private String nombre;
+	private Zoologico zoo;
+	private Animal animales;
+}
