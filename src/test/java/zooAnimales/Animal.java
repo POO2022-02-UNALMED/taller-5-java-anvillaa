@@ -16,6 +16,6 @@ public class Animal {
         this.genero=genero;
     }
     Animal(){
-        
+        super();
     }
 }
