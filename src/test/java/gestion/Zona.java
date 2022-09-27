@@ -22,6 +22,8 @@ public class Zona {
     }
     
     public int cantidadAnimales() {
-    	
+    	animal.size();
     }
+    
+    
 }

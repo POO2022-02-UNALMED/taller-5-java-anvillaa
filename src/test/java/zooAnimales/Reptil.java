@@ -2,7 +2,7 @@ package zooAnimales;
 import java.util.ArrayList;
 
 public class Reptil extends Animal{
-    private ArrayList<Reptil> listado;
+    private ArrayList<Reptil> listado= new ArrayList<Reptil>();
     public int iguanas;
     public int serpientes;
     private String colorEscamas;
@@ -16,6 +16,10 @@ public class Reptil extends Animal{
 
     Reptil(){
         
+    }
+    
+    public static int cantidadAnfibios() {
+    	
     }
      
 }

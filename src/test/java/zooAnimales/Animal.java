@@ -18,4 +18,8 @@ public class Animal {
     Animal(){
         super();
     }
+    
+    public String movimiento(){
+    	return "desplazarse";
+    }
 }
